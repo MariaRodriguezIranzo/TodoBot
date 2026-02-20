@@ -1,6 +1,6 @@
 import discord
 
-# IDs fijos, los podés pasar como parámetros si querés
+# IDs fijos, los puedes pasar como parámetros si quieres
 CANAL_BIENVENIDA_ID = 1383604497829466124
 ROL_USUARIO_ID = 1383593131340988477
 
